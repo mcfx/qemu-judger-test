@@ -19,7 +19,7 @@ It runs the code in RISC-V, and counts the number of:
 - floating point instructions
 - memory access instructions
 
-It also emulates a 4-way associative L1 cache, and counts the number of caches memory access instructions.
+It also emulates a 4-way associative L1 cache, and counts the number of cached memory access instructions.
 
 The python code tries to find some coefficients to calculate running time using these numbers.
 
