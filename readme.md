@@ -1,6 +1,6 @@
 # QEMU Judger Test
 
-This project was done 2 months ago, and I can't remember everything very well, so the steps here may be wrong.
+This project was ~~done~~ abandoned 2 months ago, and I can't remember everything very well, so the steps here may be wrong.
 
 ## Setup
 
